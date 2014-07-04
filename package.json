@@ -1,0 +1,23 @@
+{
+  "name": "PhaserTemplate_MobileFullscreen_Coffee",
+  "version": "0.0.0",
+  "description": "Mobile fullscreen template with coffee",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaosddp/PhaserTemplate_MobileFullscreen_Coffee.git"
+  },
+  "author": "chaos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaosddp/PhaserTemplate_MobileFullscreen_Coffee/issues"
+  },
+  "homepage": "https://github.com/chaosddp/PhaserTemplate_MobileFullscreen_Coffee",
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "gulp-coffee": "^2.0.1"
+  }
+}
