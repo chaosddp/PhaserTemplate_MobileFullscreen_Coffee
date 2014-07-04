@@ -41,3 +41,5 @@ If you donot have any music in your game then put the game.state.start line into
 				
 				@ready = true
 				@state.start "MainMenu"
+	
+	@BasicGame.Preloader = Preloader
